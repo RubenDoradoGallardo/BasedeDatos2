@@ -1,0 +1,22 @@
+.ocultar {
+    display: none;
+}
+.mostrar {
+    display: block;
+}
+
+.imgProducto {
+    height: 50px;
+}
+.producto {
+    text-align: center;
+    background-color: rgb(164, 218, 218);
+    margin: 10px;
+    border-color: black;
+}
+
+.resultado {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

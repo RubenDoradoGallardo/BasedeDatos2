@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <form action="">
+        <ol>
+            <H3> CALCULAR LA SUMA</H3>
+            <p>Ingresa primer numero</p>
+            <li><input type="number" placeholder="ingresa un numero A" id="txtNum1"></li>
+            <br>
+            <p>Ingresa segundo numero</p>
+            <li><input type="number" placeholder="ingresa un numero B" id="txtNum2"></li>
+            <br>
+            <input type="button" value="CALCULAR" id="btnCalcular">
+            <p>Resultado</p>
+            <li><input type="texto" placeholder="Resultado" id="txtResultado"></li>
+        </ol>
+
+
+        <script>
+            let txtNum1 = document.getElementById('txtNum1');
+            let txtNum2 = document.getElementById('txtNum2');
+            let txtResultado = document.getElementById('txtResultado');
+            const btnCalcular = document.getElementById('btnCalcular')
+
+            btnCalcular.addEventListener('click', () => {
+
+                let txtNum1 = document.getElementById('txtNum1').value;
+                let txtNum2 = document.getElementById('txtNum2').value;
+             
+                let resultado=parseInt(txtNum1)+parseInt(txtNum2)
+                console.log(resultado);
+                alert(resultado);
+
+            })
+        </script>
+</body>
+
+</html>

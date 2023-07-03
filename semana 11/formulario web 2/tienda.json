@@ -1,0 +1,102 @@
+[
+    {
+        "marca":"Xiaomi",
+        "precio":500,
+        "img": "https://arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/JQGC6ZJ6WVC7FPM6ES47AMRQVY.jpg",
+        "sistema": "Android",
+        "webpage": ""
+    },
+    {
+        "marca":"Samsung",
+        "precio":800,
+        "img": "https://celtec.pe/wp-content/uploads/2022/12/Celular-Samsung-A22_Celtec.webp",
+        "sistema": "Android",
+        "webpage": ""
+    },
+    {
+        "marca":"Honor",
+        "precio":700,
+        "img": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/43002044_1-0jztfAuL.jpg",
+        "sistema": "Android",
+        "webpage": ""
+    },
+    {
+        "marca":"Redmi",
+        "precio":500,
+        "img": "https://coolboxpe.vtexassets.com/arquivos/ids/269180-1200-auto?v=638191645269530000&width=1200&height=auto&aspect=true",
+        "sistema": "HarmoniSO",
+        "webpage": ""
+    },
+    {
+        "marca":"Xiaomi",
+        "precio":500,
+        "img": "https://arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/JQGC6ZJ6WVC7FPM6ES47AMRQVY.jpg",
+        "sistema": "Android",
+        "webpage": ""
+    },
+    {
+        "marca":"Xiaomi",
+        "precio":500,
+        "img": "https://arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/JQGC6ZJ6WVC7FPM6ES47AMRQVY.jpg",
+        "sistema": "Android",
+        "webpage": ""
+    },
+    {
+        "marca":"Redmi",
+        "precio":500,
+        "img": "https://coolboxpe.vtexassets.com/arquivos/ids/269180-1200-auto?v=638191645269530000&width=1200&height=auto&aspect=true",
+        "sistema": "HarmoniSO",
+        "webpage": ""
+    },
+    {
+        "marca":"Xiaomi",
+        "precio":500,
+        "img": "https://arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/JQGC6ZJ6WVC7FPM6ES47AMRQVY.jpg",
+        "sistema": "Android",
+        "webpage": ""
+    },
+    {
+        "marca":"Redmi",
+        "precio":500,
+        "img": "https://coolboxpe.vtexassets.com/arquivos/ids/269180-1200-auto?v=638191645269530000&width=1200&height=auto&aspect=true",
+        "sistema": "HarmoniSO",
+        "webpage": ""
+    },
+    {
+        "marca":"Xiaomi",
+        "precio":500,
+        "img": "https://arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/JQGC6ZJ6WVC7FPM6ES47AMRQVY.jpg",
+        "sistema": "Android",
+        "webpage": ""
+    },
+    {
+        "marca":"Redmi",
+        "precio":500,
+        "img": "https://coolboxpe.vtexassets.com/arquivos/ids/269180-1200-auto?v=638191645269530000&width=1200&height=auto&aspect=true",
+        "sistema": "HarmoniSO",
+        "webpage": ""
+    },
+    {
+        "marca":"Xiaomi",
+        "precio":500,
+        "img": "https://arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/JQGC6ZJ6WVC7FPM6ES47AMRQVY.jpg",
+        "sistema": "Android",
+        "webpage": ""
+    },
+    {
+        "marca":"Honor",
+        "precio":900,
+        "img": "https://falabella.scene7.com/is/image/FalabellaPE/19371032_1?wid=1500&hei=1500&qlt=70",
+        "sistema": "Android",
+        "webpage": ""
+
+    },
+    {
+            "marca":"Redmi",
+            "precio":1100,
+            "img": "https://coolboxpe.vtexassets.com/arquivos/ids/263998/45888_1.jpg?v=638162153650570000",
+            "sistema": "HarmoniSO",
+            "webpage": ""
+     }  
+      
+]
