@@ -1,0 +1,48 @@
+.ocultar {
+    display: none;
+}
+
+.mostrar {
+    display: block;
+}
+
+.imgProducto {
+    height: 50px;
+}
+
+.producto {
+    text-align: center;
+    background-color: rgb(164, 218, 218);
+    margin: 10px;
+    border-color: black;
+}
+
+.resultado {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.claseboton1 {
+    width: 150px;
+    height: 28px;
+    background-color: rgb(229, 236, 241);
+    border-radius: 7px;
+}
+
+.claseboton1:hover {
+    background-color: rgba(183, 152, 241, 0.733);
+
+}
+
+.clasecomentario {
+    background-color: rgba(13, 111, 124, 0.558);
+    border-radius: 50px;
+    width: 1170px;
+}
+
+.listarDatos {
+    background-color: rgba(161, 65, 124, 0.558);
+    border-radius: 7px;
+    width: 1010px;
+}
