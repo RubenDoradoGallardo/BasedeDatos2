@@ -73,7 +73,10 @@ btnIniciarSesion.addEventListener('click', () => {
         });
 })
 
-//Cerrar sesion//
+//Cerrar sesion// 
+
+
+
 btnCS.addEventListener('click', () => {
     firebase.auth().signOut().then(() => {
         console.log("se cerro");
